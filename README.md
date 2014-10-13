@@ -4,6 +4,9 @@
 Contains Java source files created for learning purpose
 
 ##Contents
-Design Patterns
-Random
+<ul>
+<li>Design Patterns</li>
+<li>Random</li>
+
+</ul>
 
